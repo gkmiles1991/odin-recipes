@@ -11,6 +11,13 @@ ul {
     font-weight: 100;
 }
 
+ol {
+    text-align: center;
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+}
+
 p {
     text-align: center;
     font-size: 14px;
